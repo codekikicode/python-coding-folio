@@ -6,29 +6,29 @@ This repository contains assignments and projects completed at Lehman College fo
 
 ## 📂 Contents
 
-- **HW1_Multi_Linear_Regression.ipynb**  
+**Tensor_Basics.ipynb**  
+  Practiced creating and manipulating **tensors** in PyTorch, including operations, reshaping, and broadcasting. Established a foundational understanding for subsequent deep learning assignments.  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/codekikicode/python-coding-folio/blob/main/Tensor_Basics.ipynb)
+
+- **Multi_Linear_Regression.ipynb**  
   Built a regression model with multiple input features to predict **house prices** based on square footage, number of bedrooms, and property age. Gained experience in **feature engineering, model training, and evaluation**.  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/codekikicode/CMP-414-ARTIFICIAL-INTELLIGENCE-SU2025/blob/main/HW1_Multi_Linear_Regression.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/codekikicode/python-coding-folio/blob/main/Multi_Linear_Regression.ipynb)
 
-- **HW2_Lung_Nodule_Detection.ipynb**  
+- **Project1_Lung_Nodule_Detection.ipynb**  
   Developed a deep learning model to classify lung nodules as benign or malignant using 3D CT scans from the **LUNA16 dataset**. Tasks included data preprocessing, model design, training, and evaluation. Provided hands-on experience with **medical image analysis** and **deep learning in PyTorch**.  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/codekikicode/CMP-414-ARTIFICIAL-INTELLIGENCE-SU2025/blob/main/HW2_Lung_Nodule_Detection.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/codekikicode/python-coding-folio/blob/main/Project1_Lung_Nodule_Detection.ipynb)
 
-- **HW3_Language_Model.ipynb**  
+- **Project2_Language_Model.ipynb**  
   Built a simple **statistical language model** for text generation and evaluation. Focused on tokenization, probability distributions, and sequence prediction.  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/codekikicode/CMP-414-ARTIFICIAL-INTELLIGENCE-SU2025/blob/main/HW3_Language_Model.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/codekikicode/python-coding-folio/blob/main/Project2_Language_Model.ipynb)
 
-- **HW4_PretrainedNetworks.ipynb**  
+- **Pretrained_Networks.ipynb**  
   Explored **pretrained deep learning models** by applying them to image classification tasks. Experimented with transfer learning and fine-tuning techniques to adapt pretrained networks to new datasets.  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/codekikicode/CMP-414-ARTIFICIAL-INTELLIGENCE-SU2025/blob/main/HW4_PretrainedNetworks.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/codekikicode/python-coding-folio/blob/main/Pretrained_Networks.ipynb)
 
-- **HW5_FashionMNISTCNN.ipynb**  
+- **Fashion_MNIST_CNN.ipynb**  
   Implemented a **Convolutional Neural Network (CNN)** classifier for the **FashionMNIST dataset** (70,000 grayscale images of clothing items). Designed and trained a deep learning model to distinguish between 10 clothing categories at **28x28 pixel resolution**. Explored convolutional layers, pooling, and accuracy evaluation.  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/codekikicode/CMP-414-ARTIFICIAL-INTELLIGENCE-SU2025/blob/main/HW5_FashionMNISTCNN.ipynb)
-
-- **HW6_Sequence_Modeling.ipynb**  
-  Implemented an **RNN/LSTM sequence model** for natural language text generation. Covered sequence learning, recurrent architectures, and training on text corpora.  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/codekikicode/CMP-414-ARTIFICIAL-INTELLIGENCE-SU2025/blob/main/HW6_Sequence_Modeling.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/codekikicode/python-coding-folio/blob/main/Fashion_MNIST_CNN.ipynb)
 
 ---
 
