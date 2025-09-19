@@ -6,7 +6,7 @@ This repository contains assignments and projects completed at Lehman College fo
 
 ## 📂 Contents
 
-**Tensor_Basics.ipynb**  
+- **Tensor_Basics.ipynb**  
   Practiced creating and manipulating **tensors** in PyTorch, including operations, reshaping, and broadcasting. Established a foundational understanding for subsequent deep learning assignments.  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/codekikicode/python-coding-folio/blob/main/Tensor_Basics.ipynb)
 
